@@ -18,6 +18,7 @@ public class Mochila{
         String[][] items = {{"01","baya aranja","15","cant"},
                             {"02","baya citrus","25","cant"},
                             {"03","baya poke","30","cant"}};
+        
         String[][] bici = {{"Sport","28\""},
                            {"Normal","21\""}};
         
