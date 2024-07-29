@@ -12,3 +12,4 @@ package pokemongrupo;
 public class tipo {
     
 }
+public static final String PLANTA = "Planta";
